@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyBasicApp</string>
+    <string name="hellop">Ciao mondo! portrait</string>
+    <string name="hellol">Ciao mondo! landscape</string>
+    <string name="literalb">Azione1</string>
+    <string name="textotoast">il pulsante e stato cliccato</string>
+    <string name="hellolarge">Ciao mondo! large</string>
+</resources>

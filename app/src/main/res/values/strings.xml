@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MyBasicApp</string>
+    <string name="hellop">Hola Mundo!  portrait</string>
+    <string name="hellol">Hola Mundo!  landscape</string>
+    <string name="literalb">Accion1</string>
+    <string name="textotoast">Se ha clicado sobre el boton</string>
+    <string name="hellolarge">Hola Mundo! large</string>
+
 </resources>

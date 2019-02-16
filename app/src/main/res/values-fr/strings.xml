@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyBasicApp</string>
+    <string name="hellop">Salut monde !  portrait</string>
+    <string name="hellol">Salut monde !  landscape</string>
+    <string name="literalb">Accion1</string>
+    <string name="hellolarge">Salut monde ! large</string>
+</resources>
