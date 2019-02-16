@@ -4,5 +4,6 @@
     <string name="hellop">Salut monde !  portrait</string>
     <string name="hellol">Salut monde !  landscape</string>
     <string name="literalb">Accion1</string>
+    <string name="textotoast">"Le bouton a été cliqué"</string>
     <string name="hellolarge">Salut monde ! large</string>
 </resources>
